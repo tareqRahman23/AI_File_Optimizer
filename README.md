@@ -20,7 +20,7 @@ other large language models.
 ## Download
 
 Download the newest Windows installer from the
-[GitHub Releases page](../../releases/latest).
+[[GitHub Releases page](../../releases/latest).](https://github.com/tareqRahman23/AI_File_Optimizer/releases/tag/AiFileOptimizer)
 
 Run the downloaded setup file and follow the installation wizard. The installer
 can create Start Menu and desktop shortcuts and includes the application
