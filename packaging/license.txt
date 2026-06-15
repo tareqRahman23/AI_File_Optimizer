@@ -1,0 +1,8 @@
+File Optimizer for AI
+
+This application is provided as-is. It uses Microsoft MarkItDown and bundled
+Python dependencies to convert supported local files into Markdown.
+
+Some formats may require external tools or services supported by MarkItDown.
+Estimated token reduction is approximate and should not be treated as an exact
+count for any specific AI model.
